@@ -12,7 +12,7 @@ A simple Java console-based number guessing game where the computer randomly pic
    - If you guess correctly, it congratulates you and shows how many tries it took.
 4. If you run out of tries, the program reveals the correct number.
 
-## 🧩 Example Output
+## Example Output
 
 I'm thinking of a number between 1 and 100.
 Enter your guess (10 tries left): 50
@@ -22,9 +22,9 @@ Too high!
 Enter your guess (8 tries left): 62
 🎉 Correct in 3 tries!
 
-## ⚙️ How to Run
+## How to Run
 
-# Option 1 —  From Command Line
+### Option 1 —  From Command Line
 1. Make sure you have **Java 8 or higher** installed.
 2. Clone the repository:
     git clone https://github.com/<your-username>/number-guess.git
@@ -35,29 +35,29 @@ Enter your guess (8 tries left): 62
 5. Run the program:
      java NumberGuess
 
-# Option 2 - In Eclipse (Recommended)
+### Option 2 - In Eclipse (Recommended)
 1. Download or clone this repository.
 2. Open Eclipse → File → Import → Existing Projects into Workspace.
 3. Run 'NumberGuess.java'.
 
-##💡 Features
+## Features
 
 Random number generation between 1 and 100
 Limited attempts (10 tries)
 Hints for each guess (too high / too low)
 Simple, clean Java code
 
-##🚀 Future Improvements
+## Future Improvements
 
 Add difficulty levels (easy, medium, hard)
 Track and display player scores
 Create a GUI version with Swing or JavaFX
 
-##📜 License
+## License
 
 This project is for learning purposes.
 
 
-##👨‍💻 Author: Shubhangi Singh
+## Author: Shubhangi Singh
 
 
